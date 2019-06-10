@@ -1,4 +1,5 @@
 .DS_Store
 .idea/
 venv/
+Test/__main__/__pycache__/
 
